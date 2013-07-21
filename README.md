@@ -1,4 +1,4 @@
-Guide
+About
 ========
 
 This folder contains some interesting algorithmic problems and my solutions. 
