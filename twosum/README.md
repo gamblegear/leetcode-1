@@ -16,7 +16,7 @@ Output: index1=1, index2=2
 首先容易想到的方法是先sort然后从两头scan towards each other，但是这样时间复杂度是 *O(nlog(n))*
 然后想到从data structure上优化，用Dictionary，这样只要scan一次。如下code，不多作解释了。
 
-## My Solution
+## Solution
 
 		public class twosum {
 		    public int[] twoSum(int[] numbers, int target) {
