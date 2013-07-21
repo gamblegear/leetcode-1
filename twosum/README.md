@@ -11,12 +11,8 @@ Output: index1=1, index2=2
 
 ## Stop & Think
 
-这题很常见，也比较容易。
-
-首先容易想到的是sort然后从两头scan towards each other，但是这样时间复杂度是 *O(nlog(n))*
-
-然后就是比较容易想到从data structure上优化，用dictionary，如下code，不多解释了。
-
+首先容易想到的方法是先sort然后从两头scan towards each other，但是这样时间复杂度是 *O(nlog(n))*
+然后想到从data structure上优化，用Dictionary，这样只要scan一次。如下code，不多作解释了。
 
 ## My Solution
 
@@ -35,4 +31,4 @@ Output: index1=1, index2=2
 
 ## Note
 
-- 因为要返回index，所以用dictionary的value来存。
+- 因为要返回index，所以用dictionary的value来存index。
