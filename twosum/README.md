@@ -9,6 +9,8 @@ You may assume that each input would have exactly one solution.
 Input: numbers={2, 7, 11, 15}, target=9
 Output: index1=1, index2=2
 
+- [问题链接](http://leetcode.com/onlinejudge#question_1)
+
 ## Stop & Think
 
 首先容易想到的方法是先sort然后从两头scan towards each other，但是这样时间复杂度是 *O(nlog(n))*
