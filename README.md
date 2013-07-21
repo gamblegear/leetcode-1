@@ -1,6 +1,6 @@
-leetcode
+Guide
 ========
 
-This folder contains Leetcode Problems and some solutions. 
+This folder contains some interesting algorithmic problems and my solutions. 
 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
