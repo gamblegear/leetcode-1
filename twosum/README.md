@@ -9,7 +9,7 @@ You may assume that each input would have exactly one solution.
 Input: numbers={2, 7, 11, 15}, target=9
 Output: index1=1, index2=2
 
-- [问题链接](http://leetcode.com/onlinejudge#question_1)
+- [link](http://leetcode.com/onlinejudge#question_1)
 
 ## Stop & Think
 
