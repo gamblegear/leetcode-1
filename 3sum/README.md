@@ -12,7 +12,7 @@ For example, given array S = {-1 0 1 2 -1 -4},
     (-1, 0, 1)
     (-1, -1, 2)
 
-- [题目链接](http://leetcode.com/onlinejudge#question_15)
+- [link](http://leetcode.com/onlinejudge#question_15)
 
 ## Stop & Think
 
