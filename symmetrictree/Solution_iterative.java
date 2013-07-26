@@ -1,5 +1,4 @@
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * Created with IntelliJ IDEA.
@@ -22,8 +21,8 @@ import java.util.Queue;
  *       1
  *     / \
  *    2   2
- *    \   \
- *    3    3
+ *    \    \
+ *     3    3
  * Note:
  * Bonus points if you could solve it both recursively and iteratively.
  **/
@@ -37,26 +36,50 @@ class TreeNode {
 }
 
 public class Solution {
-
-    // level by level
     public boolean isSymmetric(TreeNode root) {
+        Queue<TreeNode> nodesQueue = new LinkedList<TreeNode>();
+        Queue<Integer> levelsQueue = new LinkedList<Integer>();
 
-        if (root == null) {
-            return true;
+        nodesQueue.offer(root);
+        levelsQueue.offer(0); //Start from zero
+
+        int currLevel = 0;
+        while (!nodesQueue.isEmpty()){
+            List<Integer> levelNums = new ArrayList<Integer>();
+            int l;
+            do {
+                TreeNode t = nodesQueue.poll();
+                l = levelsQueue.poll();
+
+                if (t == null) {
+                    levelNums.add(0);
+                }
+                else {
+                    levelNums.add(t.val);
+
+                    nodesQueue.offer(t.left);
+                    levelsQueue.offer(currLevel+1);
+                    nodesQueue.offer(t.right);
+                    levelsQueue.offer(currLevel+1);
+                }
+            } while (!nodesQueue.isEmpty() && levelsQueue.peek() == currLevel);
+
+            if (!isListSymmetric(levelNums)) {
+                return false;
+            }
+            currLevel++;
         }
-
-        Queue<TreeNode> q = new LinkedList<TreeNode>();
-        Queue<Integer> lvl = new LinkedList<Integer>();
-
-        q.add(root);
-        lvl.add(0);
-
-        while (!q.isEmpty()){
-
-
-
-        }
-
+        return true;
     }
 
+    public boolean isListSymmetric(List<Integer> list) {
+        int s = 0, e = list.size() - 1;
+        while (s <= e) {
+            if (list.get(s) != list.get(e)) {
+                return false;
+            }
+            s++;e--;
+        }
+        return true;
+    }
 }
