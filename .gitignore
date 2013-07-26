@@ -1,11 +1,8 @@
 .class
+
 *.xml
 
 *.iml
-
-3sum/.DS_Store
-
-3sum/.idea/.name
 
 .idea/.name
 
