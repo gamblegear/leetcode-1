@@ -26,14 +26,17 @@ Return 6.
 
     public int maxPathSum(TreeNode root) {
 	Map<TreeNode, Integer> globalMax = new HashMap<TreeNode, Integer>();
-	globalMax.put(null, Integer.MIN_VALUE);
-    	maxSumPathFromRoot(root, globalMax);
-    	return globalMax.get(root);
+	
+        globalMax.put(null, Integer.MIN_VALUE);
+    	
+        maxSumPathFromRoot(root, globalMax);
+    	
+        return globalMax.get(root);
     }
 
     // return the max sum of a path starting from root
-    public int maxSumPathFromRoot(TreeNode root, 
-    	Map<TreeNode, Integer> globalMax) {
+    public int maxSumPathFromRoot(TreeNode root, Map<TreeNode, Integer> globalMax) {
+    	
     	if (root == null) {
     		return 0;
     	}
