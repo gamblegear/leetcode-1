@@ -4,6 +4,8 @@ Given a binary tree, find its minimum depth.
 
 The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
 
+[link](http://leetcode.com/onlinejudge#question_111)
+
 ## Stop and Think
 
 从root出发的最小depth应该就是左子树的最小depth和右子树的最小depth的最小值，然后加一。
