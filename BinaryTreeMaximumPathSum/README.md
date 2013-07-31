@@ -25,7 +25,8 @@ Return 6.
 ## Solution
 
     public int maxPathSum(TreeNode root) {
-	Map<TreeNode, Integer> globalMax = new HashMap<TreeNode, Integer>();
+    
+        Map<TreeNode, Integer> globalMax = new HashMap<TreeNode, Integer>();
 	
         globalMax.put(null, Integer.MIN_VALUE);
     	
