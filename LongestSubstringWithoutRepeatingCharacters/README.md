@@ -39,6 +39,6 @@ Given a string, find the length of the longest substring without repeating chara
 
 ## Note
 
-- hashtable的value设成是改字符的后一个index
+- hashtable的value设成是重复的字符的后一个index
 - 边界条件要注意
-- 时间复杂度的话是 `O(n)`，因为每个character最多被处理2次。
+- 时间复杂度的话是 `O(n)`，因为每个character最多被处理2次
