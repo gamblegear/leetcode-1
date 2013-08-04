@@ -31,7 +31,7 @@ public class Solution {
     	while (true) {
     		boolean foundNextValue = false;
     		for(int i=0; i < n; i++) {
-    			int nextValue = flipKbit(currentValue, i);	
+    			int nextValue = flipKthBit(currentValue, i);	
     			// if new value, add to set, reset currentvalue
     			if (!s.contains(nextValue)) {
     				currentValue = nextValue;
@@ -47,7 +47,7 @@ public class Solution {
     	}
     	return res;
     }
-    private static int flipKbit(int num, int k) {
+    private static int flipKthBit(int num, int k) {
     	int mask = 1 << k;
     	return (num & mask) != 0? num - mask : num + mask;
     }
