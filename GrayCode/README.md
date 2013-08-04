@@ -26,6 +26,7 @@ For example, [0,2,3,1] is also a valid gray code sequence according to the above
 一开始的想法是DFS，预处理出一个graph matrix，用来存是否有任何一state到另外一state。但是这个memory cost有点高。
 
 那就换个角度：
+
 1. 从当前的数值（开始是全零）出发。
 2. 从0位一直试到最高位，看flip一下是不是新的value，如果是新的value就放入hashset，如果是hashset已经有的，继续试。
 3. 如果2试得无果，就结束，否则继续循环。
