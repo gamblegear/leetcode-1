@@ -29,4 +29,4 @@ Determine whether an integer is a palindrome. Do this without extra space.
 ## Note
 
 - 注意负数
-- `reverseX`有可能`overflow`.
+- `reverseX`有可能`overflow`. 可以参见 [Leetcode的讨论](http://leetcode.com/2012/01/palindrome-number.html)
