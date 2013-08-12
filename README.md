@@ -28,6 +28,7 @@ Problem sheet
 | Pow                   | 3           | 5          | binary search, math          |
 | Roman2Int             | 2           | 4          | math                         |
 | SumRoot2LeafNumbers   | 2           | 4          | tree, dfs                    |
+| ValidPalindrome       | 2           | 5          | array, two pointers          |
 | ValidateBST           | 3           | 5          | tree, dfs                    |         
 | SameTree              | 1           | 1          | tree, dfs                    |
 | Sqrt                  | 4           | 4          | binary search                |
