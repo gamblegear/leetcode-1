@@ -20,7 +20,7 @@ For the purpose of this problem, we define empty string as valid palindrome.
 
 ## Solution
 
-public boolean isPalindrome(String s) {
+     public boolean isPalindrome(String s) {
     	if (s == null || s.length() == 0) {
     		return true;
     	}
