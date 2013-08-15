@@ -21,6 +21,7 @@ Problem checklist
 | Int2Roman             | 3           | 4          | math                         |
 | LongestSubstringWoRep | 3           | 2          | string, hashtable, two ptrs  |
 | MaxDepthOfBinaryTree  | 1           | 1          | tree                         |
+| MergeInterval         | 4           | 5          | merge, arraylist             |
 | MergeTwoSortedList    | 2           | 5          | linkedlist, merge            |
 | MinDepthOfBinaryTree  | 1           | 1          | tree                         |
 | PalindromeNumber      | 2           | 2          | math                         |
