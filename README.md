@@ -28,6 +28,7 @@ Problem checklist
 | PathSum II            | 2           | 2          | tree, dfs                    |
 | Pow                   | 3           | 5          | binary search, math          |
 | Roman2Int             | 2           | 4          | math                         |
+| StrStr()              | 4           | 5          | string, KMP                  |
 | String to Integer     | 2           | 5          | string, math                 | 
 | SumRoot2LeafNumbers   | 2           | 4          | tree, dfs                    |
 | ValidPalindrome       | 2           | 5          | array, two pointers          |
