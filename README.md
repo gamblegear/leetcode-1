@@ -35,7 +35,8 @@ Problem checklist
 | SumRoot2LeafNumbers   | 2           | 4          | tree, dfs                    |
 | ValidPalindrome       | 2           | 5          | array, two pointers          |
 | ValidateParenthesis   | 2           | 5          | stack                        |
-| ValidateBST           | 3           | 5          | tree, dfs                    |         
+| ValidateBST           | 3           | 5          | tree, dfs                    | 
+| Word Ladder           | 4           | 5          | tree, bfs                    |
 | SameTree              | 1           | 1          | tree, dfs                    |
 | Sqrt                  | 4           | 4          | binary search                |
 | SymmtricTree          | 1           | 2          | tree, dfs                    |
