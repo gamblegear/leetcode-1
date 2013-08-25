@@ -27,9 +27,7 @@ All words contain only lowercase alphabetic characters.
 ## Stop and Think
 
 This problem is kind of like a BFS problem. You start from DAMP, its children will be the next state this word can transform to
-DAMP -> LAMP, DAMN, RAMP, ....
-
-level by level until we found the target word, then back track.
+DAMP -> LAMP, DAMN, RAMP, ...., level by level until we found the target word, then back track.
 
 
 ## Solution
