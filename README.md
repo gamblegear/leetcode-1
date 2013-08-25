@@ -14,6 +14,7 @@ Problem checklist
 | AddTwoNumbers         | 3           | 4          | linkedlist, two pointers     |
 | Anagrams              | 3           | 4          | string, hashtable            |
 | BinaryTreeMaxPathSum  | 4           | 2          | tree, dfs                    |
+| Climbing Stairs       | 2           | 5          | dp                           |
 | GrayCode              | 4           | 2          | combination, math            |
 | Insert Interval       | 4           | 5          | red-black tree, array        |
 | Int2Roman             | 3           | 4          | math                         |
