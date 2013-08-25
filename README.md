@@ -20,6 +20,7 @@ Problem checklist
 | LongestSubstringWoRep | 3           | 2          | string, hashtable, two ptrs  |
 | MaxDepthOfBinaryTree  | 1           | 1          | tree                         |
 | MergeInterval         | 4           | 5          | merge, arraylist             |
+| MergeSortedArray      | 2           | 5          | array                        |
 | MergeTwoSortedList    | 2           | 5          | linkedlist, merge            |
 | MinDepthOfBinaryTree  | 1           | 1          | tree                         |
 | PalindromeNumber      | 2           | 2          | math                         |
