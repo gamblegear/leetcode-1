@@ -2,10 +2,7 @@ About
 ========
 
 This folder contains some interesting algorithmic problems and my solutions. 
-
 Leetcode OJ URL: http://leetcode.com/onlinejudge
-
-Please send me email if you've found a bug. Thanks. :smile:
 
 
 Problem checklist
