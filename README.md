@@ -31,6 +31,7 @@ Problem checklist
 | Permutation           | 3           | 4          | recursion, array             | 
 | Pow                   | 3           | 5          | binary search, math          |
 | Remove element        | 1           | 4          | two pointers                 |
+| Reverse Integer       | 2           | 3          | math                         |
 | Roman2Int             | 2           | 4          | math                         |
 | Set Matrix Zeroes     | 2           | 5          | 2-D array                    |
 | StrStr()              | 4           | 5          | string, KMP                  |
