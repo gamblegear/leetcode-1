@@ -29,6 +29,7 @@ Problem checklist
 | PathSum               | 1           | 3          | tree, dfs                    |
 | PathSum II            | 2           | 2          | tree, dfs                    |
 | Pow                   | 3           | 5          | binary search, math          |
+| Remove element        | 1           | 4          | two pointers                 |
 | Roman2Int             | 2           | 4          | math                         |
 | Set Matrix Zeroes     | 2           | 5          | 2-D array                    |
 | StrStr()              | 4           | 5          | string, KMP                  |
