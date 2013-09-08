@@ -15,6 +15,7 @@ Problem checklist
 | Balanced Binary Tree  | 1           | 2          | tree, recursion              |
 | Anagrams              | 3           | 4          | string, hashtable            |
 | BinaryTreeMaxPathSum  | 4           | 2          | tree, dfs                    |
+| Flatten BS to list    | 3           | 3          | recursion                    | 
 | Climbing Stairs       | 2           | 5          | dp                           |
 | Generate paren        | 4           | 4          | dp                           |
 | GrayCode              | 4           | 2          | combination, math            |
