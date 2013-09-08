@@ -28,6 +28,7 @@ Problem checklist
 | PalindromeNumber      | 2           | 2          | math                         |
 | PathSum               | 1           | 3          | tree, dfs                    |
 | PathSum II            | 2           | 2          | tree, dfs                    |
+| Permutation           | 3           | 4          | recursion, array             | 
 | Pow                   | 3           | 5          | binary search, math          |
 | Remove element        | 1           | 4          | two pointers                 |
 | Roman2Int             | 2           | 4          | math                         |
