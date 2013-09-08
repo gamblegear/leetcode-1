@@ -12,8 +12,9 @@ Problem checklist
 | 3sum                  | 3           | 5          | array, two pointers          |
 | AddBinary             | 2           | 4          | string, two pointers, math   |
 | AddTwoNumbers         | 3           | 4          | linkedlist, two pointers     |
-| Balanced Binary Tree  | 1           | 2          | tree, recursion              |
 | Anagrams              | 3           | 4          | string, hashtable            |
+| Balanced Binary Tree  | 1           | 2          | tree, recursion              |
+| BS in-order traveral  | 4           | 3          | stack, hashtable             |
 | BinaryTreeMaxPathSum  | 4           | 2          | tree, dfs                    |
 | Flatten BS to list    | 3           | 3          | recursion                    | 
 | Climbing Stairs       | 2           | 5          | dp                           |
