@@ -18,6 +18,7 @@ Problem checklist
 | BS level-order trav   | 3           | 4          | queue, hashtable             |
 | BinaryTreeMaxPathSum  | 4           | 2          | tree, dfs                    |
 | Flatten BS to list    | 3           | 3          | recursion                    | 
+| Convert list to BST   | 4           | 3          | Linked list, recursion       |
 | Climbing Stairs       | 2           | 5          | dp                           |
 | Generate paren        | 4           | 4          | dp                           |
 | GrayCode              | 4           | 2          | combination, math            |
