@@ -16,6 +16,7 @@ Problem checklist
 | Balanced Binary Tree  | 1           | 2          | tree, recursion              |
 | BS in-order traveral  | 4           | 3          | stack, hashtable             |
 | BS level-order trav   | 3           | 4          | queue, hashtable             |
+| BS zigzag trav        | 4           | 3          | queue, hashtable             |
 | BinaryTreeMaxPathSum  | 4           | 2          | tree, dfs                    |
 | Flatten BS to list    | 3           | 3          | recursion                    | 
 | Convert array to BST  | 2           | 3          | recursion, divide and conquer|                   
