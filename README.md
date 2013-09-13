@@ -22,6 +22,7 @@ Problem checklist
 | Convert array to BST  | 2           | 3          | recursion, divide and conquer|                   
 | Convert list to BST   | 4           | 3          | Linked list, recursion       |
 | Climbing Stairs       | 2           | 5          | dp                           |
+| Inorder&postorder     | 3           | 3          | recursion, tree              | 
 | Generate paren        | 4           | 4          | dp                           |
 | GrayCode              | 4           | 2          | combination, math            |
 | Insert Interval       | 4           | 5          | red-black tree, array        |
