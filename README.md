@@ -35,6 +35,7 @@ Problem checklist
 | MergeTwoSortedList    | 2           | 5          | linkedlist, merge            |
 | MinDepthOfBinaryTree  | 1           | 1          | tree                         |
 | PalindromeNumber      | 2           | 2          | math                         |
+| Palindrome Partition  | 5           | 3          | recursion                    |
 | PathSum               | 1           | 3          | tree, dfs                    |
 | PathSum II            | 2           | 2          | tree, dfs                    |
 | Permutation           | 3           | 4          | recursion, array             | 
