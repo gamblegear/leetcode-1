@@ -36,6 +36,7 @@ Problem checklist
 | MinDepthOfBinaryTree  | 1           | 1          | tree                         |
 | PalindromeNumber      | 2           | 2          | math                         |
 | Palindrome Partition  | 5           | 3          | recursion                    |
+| Partition list        | 3           | 3          | Linked list                  |
 | PathSum               | 1           | 3          | tree, dfs                    |
 | PathSum II            | 2           | 2          | tree, dfs                    |
 | Permutation           | 3           | 4          | recursion, array             | 
