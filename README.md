@@ -39,6 +39,7 @@ Problem checklist
 | PathSum II            | 2           | 2          | tree, dfs                    |
 | Permutation           | 3           | 4          | recursion, array             | 
 | Pow                   | 3           | 5          | binary search, math          |
+| Recover BST           | 5           | 4          | BST, traveral                |
 | Remove element        | 1           | 4          | two pointers                 |
 | Reverse Integer       | 2           | 3          | math                         |
 | Roman2Int             | 2           | 4          | math                         |
