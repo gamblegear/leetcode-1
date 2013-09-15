@@ -6,9 +6,9 @@ Leetcode OJ URL: http://leetcode.com/onlinejudge
 
 Currently solved: 55
 
-Problem checklist (keep them alphabetical)
+Problem checklist 
 ==========
-| Problem               | Difficulty  | Frequency  | Notes                        |
+| Problem (alphabetical)| Difficulty  | Frequency  | Notes                        |
 | --------------------- |:-----------:| :---------:| -----------------------------|
 | 3sum                  | 3           | 5          | array, two pointers          |
 | AddBinary             | 2           | 4          | string, two pointers, math   |
