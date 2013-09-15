@@ -4,9 +4,9 @@ About
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 52
+Currently solved: 53
 
-Problem checklist
+Problem checklist (keep them alphabetical)
 ==========
 | Problem               | Difficulty  | Frequency  | Notes                        |
 | --------------------- |:-----------:| :---------:| -----------------------------|
@@ -43,9 +43,10 @@ Problem checklist
 | Permutation           | 3           | 4          | recursion, array             | 
 | Pow                   | 3           | 5          | binary search, math          |
 | Recover BST           | 5           | 4          | BST, traveral                |
-| Rem dup frm sorted ary| 1           | 3          | Array                        |
-| RemDupfromsortedlist2 | 2           | 3          | Array                        |
-| Rem Dup frm sorted lst| 2           | 3          | Linked list                  |
+| RemDupFrmSortedArray  | 1           | 3          | Array                        |
+| RemDupfromsortedArray2| 2           | 3          | Array                        |
+| RemDupfrmSortedlst    | 2           | 3          | Linked list                  |
+| RemDupfrmSortedLst2   | 3           | 3          | Linked List                  |
 | Remove element        | 1           | 4          | two pointers                 |
 | Reverse Integer       | 2           | 3          | math                         |
 | Roman2Int             | 2           | 4          | math                         |
