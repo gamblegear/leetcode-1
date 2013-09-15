@@ -48,6 +48,7 @@ Problem checklist (keep them alphabetical)
 | RemDupfrmSortedlst    | 2           | 3          | Linked list                  |
 | RemDupfrmSortedLst2   | 3           | 3          | Linked List                  |
 | Remove element        | 1           | 4          | two pointers                 |
+| Rm N from end         | 2           | 3          | two pointers                 |
 | Reverse Integer       | 2           | 3          | math                         |
 | Roman2Int             | 2           | 4          | math                         |
 | Set Matrix Zeroes     | 2           | 5          | 2-D array                    |
