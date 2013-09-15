@@ -43,6 +43,7 @@ Problem checklist
 | Pow                   | 3           | 5          | binary search, math          |
 | Recover BST           | 5           | 4          | BST, traveral                |
 | Rem dup frm sorted ary| 1           | 3          | Array                        |
+| RemDupfromsortedlist2 | 2           | 3          | Array                        |
 | Rem Dup frm sorted lst| 2           | 3          | Linked list                  |
 | Remove element        | 1           | 4          | two pointers                 |
 | Reverse Integer       | 2           | 3          | math                         |
