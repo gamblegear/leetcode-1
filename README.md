@@ -4,7 +4,7 @@ About
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 54
+Currently solved: 55
 
 Problem checklist (keep them alphabetical)
 ==========
@@ -32,6 +32,7 @@ Problem checklist (keep them alphabetical)
 | LongestSubstringWoRep | 3           | 2          | string, hashtable, two ptrs  |
 | MaxDepthOfBinaryTree  | 1           | 1          | tree                         |
 | MergeInterval         | 4           | 5          | merge, arraylist             |
+| Merge K sorted list   | 3           | 4          | heap, linked list            |
 | MergeSortedArray      | 2           | 5          | array                        |
 | MergeTwoSortedList    | 2           | 5          | linkedlist, merge            |
 | MinDepthOfBinaryTree  | 1           | 1          | tree                         |
