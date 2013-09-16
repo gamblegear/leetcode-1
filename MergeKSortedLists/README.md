@@ -8,7 +8,7 @@ n-way merge可以利用的heap或者priority queue来解决，把所有的node�
 
 ## Solution
 
-   public static ListNode mergeKLists(ArrayList<ListNode> lists) {
+      public static ListNode mergeKLists(ArrayList<ListNode> lists) {
     	if (lists == null) {
     		return null;
     	}
