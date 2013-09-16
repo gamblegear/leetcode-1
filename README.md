@@ -4,7 +4,7 @@ About
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 57
+Currently solved: 58
 
 Problem checklist 
 ==========
@@ -55,6 +55,7 @@ Problem checklist
 | Roman2Int             | 2           | 4          | math                         |
 | Set Matrix Zeroes     | 2           | 5          | 2-D array                    |
 | StrStr()              | 4           | 5          | string, KMP                  |
+| Subsets               | 3           | 4          | recursion, combinations      |
 | String to Integer     | 2           | 5          | string, math                 | 
 | SumRoot2LeafNumbers   | 2           | 4          | tree, dfs                    |
 | Swap nodes in pairs   | 2           | 4          | linked list                  |
