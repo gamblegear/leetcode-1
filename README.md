@@ -56,6 +56,7 @@ Problem checklist
 | StrStr()              | 4           | 5          | string, KMP                  |
 | String to Integer     | 2           | 5          | string, math                 | 
 | SumRoot2LeafNumbers   | 2           | 4          | tree, dfs                    |
+| Swap nodes in pairs   | 2           | 4          | linked list                  |
 | ValidPalindrome       | 2           | 5          | array, two pointers          |
 | ValidateParenthesis   | 2           | 5          | stack                        |
 | ValidateBST           | 3           | 5          | tree, dfs                    | 
