@@ -4,7 +4,7 @@ About
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 56
+Currently solved: 57
 
 Problem checklist 
 ==========
@@ -23,6 +23,7 @@ Problem checklist
 | Convert array to BST  | 2           | 3          | recursion, divide and conquer|                   
 | Convert list to BST   | 4           | 3          | Linked list, recursion       |
 | Climbing Stairs       | 2           | 5          | dp                           |
+| Combinations          | 3           | 4          | combinations                 |
 | Inorder&preorder      | 3           | 3          | recursion, tree              |
 | Inorder&postorder     | 3           | 3          | recursion, tree              | 
 | Generate paren        | 4           | 4          | dp                           |
