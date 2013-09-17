@@ -63,6 +63,7 @@ Problem checklist
 | ValidateParenthesis   | 2           | 5          | stack                        |
 | ValidateBST           | 3           | 5          | tree, dfs                    | 
 | Word Ladder           | 4           | 5          | tree, bfs                    |
+| Word search           | 4           | 4          | tree, dfs                    |
 | SameTree              | 1           | 1          | tree, dfs                    |
 | Sqrt                  | 4           | 4          | binary search                |
 | SymmtricTree          | 1           | 2          | tree, dfs                    |
