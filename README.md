@@ -4,7 +4,7 @@ About
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 58
+Currently solved: 59
 
 Problem checklist 
 ==========
