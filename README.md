@@ -19,6 +19,7 @@ Problem checklist
 | BS level-order trav   | 3           | 4          | queue, hashtable             |
 | BS zigzag trav        | 4           | 3          | queue, hashtable             |
 | BinaryTreeMaxPathSum  | 4           | 2          | tree, dfs                    |
+| Decode ways           | 4           | 4          | dp                           |
 | Flatten BS to list    | 3           | 3          | recursion                    | 
 | Convert array to BST  | 2           | 3          | recursion, divide and conquer|                   
 | Convert list to BST   | 4           | 3          | Linked list, recursion       |
