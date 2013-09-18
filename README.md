@@ -4,7 +4,7 @@ About
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 60
+Currently solved: 61
 
 Problem checklist 
 ==========
@@ -31,6 +31,7 @@ Problem checklist
 | GrayCode              | 4           | 2          | combination, math            |
 | Insert Interval       | 4           | 5          | red-black tree, array        |
 | Int2Roman             | 3           | 4          | math                         |
+| LetterComb Phone book | 3           | 3          | combination, recursion       |
 | LongestSubstringWoRep | 3           | 2          | string, hashtable, two ptrs  |
 | MaxDepthOfBinaryTree  | 1           | 1          | tree                         |
 | MergeInterval         | 4           | 5          | merge, arraylist             |
