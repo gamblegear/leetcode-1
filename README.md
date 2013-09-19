@@ -4,7 +4,7 @@ About
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 61
+Currently solved: 62
 
 Problem checklist 
 ==========
@@ -20,6 +20,7 @@ Problem checklist
 | BS zigzag trav        | 4           | 3          | queue, hashtable             |
 | BinaryTreeMaxPathSum  | 4           | 2          | tree, dfs                    |
 | Decode ways           | 4           | 4          | dp                           |
+| Divide two int        | 4           | 3          | math                         |
 | Flatten BS to list    | 3           | 3          | recursion                    | 
 | Convert array to BST  | 2           | 3          | recursion, divide and conquer|                   
 | Convert list to BST   | 4           | 3          | Linked list, recursion       |
