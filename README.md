@@ -56,6 +56,7 @@ Problem checklist
 | Rm N from end                | 2           | 3          | two pointers                 |
 | Reverse Integer              | 2           | 3          | math                         |
 | Roman2Int                    | 2           | 4          | math                         |
+| Rotated array search         | 3           | 3          | binary search                |
 | Set Matrix Zeroes            | 2           | 5          | 2-D array                    |
 | StrStr()                     | 4           | 5          | string, KMP                  |
 | Subsets                      | 3           | 4          | recursion, combinations      |
