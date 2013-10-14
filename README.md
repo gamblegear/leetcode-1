@@ -75,3 +75,7 @@ Problem checklist
 | SymmtricTree                 | 1           | 2          | tree, dfs                    |
 | ThreeSumClosest              | 3           | 1          | array, two pointers          |
 | TwoSum                       | 2           | 5          | array, set, sort, two ptrs   |
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zeiga/leetcode/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
