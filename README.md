@@ -4,7 +4,7 @@ About
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 65
+Currently solved: 66
 
 Problem checklist 
 ==========
@@ -41,6 +41,7 @@ Problem checklist
 | MergeSortedArray             | 2           | 5          | array                        |
 | MergeTwoSortedList           | 2           | 5          | linkedlist, merge            |
 | MinDepthOfBinaryTree         | 1           | 1          | tree                         |
+| Multiply strings             | 4           | 3          | math, array, string          |
 | PalindromeNumber             | 2           | 2          | math                         |
 | Palindrome Partition         | 5           | 3          | recursion                    |
 | Partition list               | 3           | 3          | Linked list                  |
