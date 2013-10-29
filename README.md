@@ -1,7 +1,7 @@
 This folder contains some interesting algorithmic problems and my solutions. 
 Leetcode OJ URL: http://leetcode.com/onlinejudge
 
-Currently solved: 66
+Currently solved: 67
 
 Problem checklist 
 ==========
@@ -45,6 +45,7 @@ Problem checklist
 | PathSum                      | 1           | 3          | tree, dfs                    |
 | PathSum II                   | 2           | 2          | tree, dfs                    |
 | Permutation                  | 3           | 4          | recursion, array             | 
+| PlusOne                      | 2           | 2          | Math                         |
 | Pow                          | 3           | 5          | binary search, math          |
 | Recover BST                  | 5           | 4          | BST, traveral                |
 | RemDupFrmSortedArray         | 1           | 3          | Array                        |
